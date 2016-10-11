@@ -6,5 +6,5 @@ My article "Multiple documents from one source" for the proceedings of the EuroT
 
 ## Download
 
-Compiled PDF files are available [here](https://github.com/leoarnold/eurotex2012-uniflow/releases).
+Compiled PDF files are available [here](https://github.com/leoarnold/uniflow-eurotex2012/releases).
 
